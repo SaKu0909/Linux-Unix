@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>1. Sanni Kujala nettisivu_vim</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> <!--all font text-->
+    <link rel="stylesheet" type="text/css" href="vietnam.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap" rel="stylesheet"> <!--p font text-->
+    
+</head>
+
+
+<body id="eka">
+    
+        
+        
+    <div class="container">
+        
+        <div class="navigation">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="https://www.youtube.com/watch?v=04Kf_0kppPM">Video</a></li>
+                <li><a href="https://pixabay.com/fi/images/search/vietnam/">Pictures</a></li>
+                <li><a href="http://www.vietnam-guide.com/">Find a guide</a></li>
+                <li><a href="https://www.tripadvisor.com/Attractions-g293924-Activities-Hanoi.html">Tips</a></li>
+                
+            </ul>
+        </div>
+
+        <div id="logo">
+            <h3>Discovery Vietnam - place where I grew up</h3>
+        </div>
+        
+        <div id="intro">
+            <p>Vietnam's capital races to make up for time lost to the ravages of war and a government 
+                that as recently as the 1990s kept the outside world at bay.</p> 
+            <p>Its streets surge with scooters vying for right of way amid the din of constantly blaring horns,
+            and all around layers of history reveal periods of French and Chinese occupation –
+            offering a glimpse into the resilience of ambitious, proud Hanoians.</p>
+        </div>
+
+        <div id="kuvat">
+            <h2>Galleries</h2>
+            <div class="famous"><img src="Hanoi modern.jpeg" alt="Hanoi Vietnam's capital"></div>
+            <div class="famous"><img src="Hanoi flower sale.jpeg" alt="Flower sale"></div>
+            <div class="famous"><img src="halong1.jpeg" alt="Ha Long bay"></div>
+            <div class="famous"><img src="Hanoi traffic.jpeg" alt="Hanoi traffic"></div>
+            <div class="famous"><img src="Pho2.jpeg" alt="Food"></div>
+        
+        </div>
+        
+        <div id="lohkot">
+            <div class="lohko">
+                <h2>People</h2>
+                
+                <div class="content">
+                    <div class="kuva"><img src="vietnam_woman_boat1.jpeg" alt="Vietnamese people on salt field"></div>
+                    <p>Vietnamese people of nowadays drive ambition for technology, entrepreneurship, freedom, 
+                        respect and equality in the society, and above all an open vision to see the world and be part 
+                        of the development globally. <a href="https://fi.wikipedia.org/wiki/Vietnam">Read more</a></p>
+                    
+                </div>
+
+            </div>
+
+
+            <div class="lohko">
+                <h2>Food</h2>
+                
+                <div class="content">
+                    <div class="kuva"><img src="vietnam_market1.jpeg" alt="Vietnamese open market"></div>
+                    <p>There is a saying in Vietnam, that "Vietnamese people are happy and open because of their food"
+                        This is true indeed and well describes how important food is in Vietnam. Vietnamese cuisine is a
+                        complex combination of fresh ingredients, with herbs and spices that make the flavour and tast 
+                        extraordinary. <a href="https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes">Read more</a> </p>
+                </div>
+            </div>
+
+
+            <div class="lohko">
+                <h2>Nature</h2>
+                            
+                <div class="content">
+                    <div class="kuva"><img src="vietnam_nhatrang1.jpeg" alt="Nha Trang beach"></div>
+                    <p><a href="https://www.lonelyplanet.com/vietnam">Vietnam</a> is a South-East Asian country with 
+                        the capital is Hanoi. Find out more about <a href="https://vietnam.travel/place-to-go"> favorite places</a> in Vietnam</p>
+                    
+                </div>
+            </div>  
+        </div>    
+    </div>
+
+    <div id="endtext">Published by Sanni Kujala. Latest updated 28.8.2021</div>
+
+</body>
+</html>

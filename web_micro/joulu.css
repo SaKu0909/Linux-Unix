@@ -1,0 +1,43 @@
+body{
+    background-blend-mode: lighten;
+    background-image: linear-gradient(to right, white, lightpink);
+    width: 1000px;
+    margin: 0 auto;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+.nav {
+    background-color: rgba(254, 19, 19, 0.639);
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(245, 245, 254);
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+a:hover{
+    color: rgb(9, 225, 249);
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+}
+
+h2 {
+    font-family: 'Cabin', sans-serif;
+}
+
+p {
+    color: rgb(65, 4, 4)
+}

@@ -1,0 +1,10 @@
+Text Editors: Vim
+URL to GitHub repository:  https://github.com/hamk-linux-20x6/stevestudent_assignments
+Your full name e.g. Steve Student
+Then one empty line and answer the questions. Compare the three editors in these aspects:
+learning curve (how easy to learn)
+user interface (how easy to do tasks you need)
+features
+speed
+problems / issues with the editor
+describe ideal use case for the particular editor
