@@ -1,10 +1,37 @@
-Text Editors: Vim
-URL to GitHub repository:  https://github.com/hamk-linux-20x6/stevestudent_assignments
-Your full name e.g. Steve Student
-Then one empty line and answer the questions. Compare the three editors in these aspects:
-learning curve (how easy to learn)
-user interface (how easy to do tasks you need)
-features
-speed
-problems / issues with the editor
-describe ideal use case for the particular editor
+Text Editors: Vim, Emacs, micro
+URL to GitHub repository: https://github.com/SaKu0909/Linux-Unix
+Full name: Sanni Kujala
+
+Compare the three editors in these aspects:
+
+
+Vim
+- Learning curve: Vim is a good text editor tool. However, as a Window and Mac user, I found difficult to understand the logic of how commands were structured. Therefore, it was difficult
+	for me to remember the commands by heart. In stead, I have a chart of most common commands while using Vim
+- User interface: as mentioned before, there is no logic to me while learning Vim, so it's difficult to remember the commands. However, the commands seem to be simple, so practice will 
+	most probably help
+- Features: there are quite many features in Vim, that I have learnt from the learning materials. However, what I have noticed is that Vim can do so many things else, which requires user
+	to discover while using it
+- Speed: good enough for me
+- Problems / issues with the editor: no
+- Describe ideal use: in my opinion Vim is quite a good tool for simple text files
+
+
+Emacs
+- Learning curve: Emacs is a good text editor to start learning in Linux. As at the moment I am a Mac user, the command are differently from what are in the videos, so sometimes it was 
+	slightly difficult to follow what is the command in Windows vs. Mac. However, once I understood the logic, it was easy to work with Emacs
+- User interface: the commands' structure is not logical to me - a previous Window user and Mac nowadays. 
+- Features: Emacs offers plenty of features which are useful in all different situation
+- Speed: good enough for me
+- Problems / issues with the editor: no
+- Describe ideal use: in my opinion Emacs is rather good option for simple programming
+
+
+micro
+- Learning curve: I have learnt micro by watching Youtube video. I was surprise how easy to learn micro is, and for Window's users, micro is a great text editor tool, because same commands can be used both 
+	in Window and micro. For example: Ctrl+C means copy, Ctrl+V means paste
+- User interface: the commands are logical and similar to Windows, which is most used so it is easy to work with micro
+- Features: I have learnt about basic features about micro, but I believe that there are so many more to learn, and I am excited to learn more about micro independently
+- Speed: fast
+- Problems / issues with the editor: no
+- Describe ideal use: good option for programmin    
